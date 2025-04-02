@@ -1,4 +1,4 @@
-Id;Name;Gender;House;Wand;Patronus;Blood status;Birthdate
+Id;name;gender;house;wand;patronus;blood_status;birthdate
 1;Harry James Potter;Male;Gryffindor;"11""  Holly  phoenix feather";Stag;Half-blood;July 1980
 2;Ronald Bilius Weasley;Male;Gryffindor;"12"" Ash unicorn tail hair ";Jack Russell terrier;Pure-blood;March 1980
 3;Hermione Jean Granger;Female;Gryffindor;"10¾""  vine wood dragon heartstring";Otter;Muggle-born;September 1979

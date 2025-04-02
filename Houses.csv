@@ -1,1 +1,5 @@
-House_ID,Founder,Mascot,Colors,Common_Room
+house_id,founder,mascot,colors,common_room
+Gryffindor,Godric Gryffindor,lion,Scarlet and gold,Gryffindor Tower
+Hufflepuff,Helga Hufflepuff,badger,Yellow and black,Hufflepuff Basement
+Ravenclaw,Rowena Ravenclaw,eagle,Blue and bronze,Ravenclaw Tower
+Slytherin,Salazar Slytherin,snake,Green and silver,Slytherin Dungeon
