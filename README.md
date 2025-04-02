@@ -50,3 +50,5 @@ We followed the ETL process:
 - **Load**: Loaded transformed data into a PostgreSQL database using Python and SQLAlchemy
 
 ---
+Summary 
+After we extracted our data from Kaggle and HP-API, we loaded the files into Python. From there, we found that we had some inconsistent data such as the birth dates in the different CSVs. We put them in dataframes so that we could modify our data and then save clean CSV files to upload into SQL. We created SQL tables with the fields we desired for us to upload our clean data into. 
