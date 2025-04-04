@@ -1,4 +1,4 @@
-Id;name;gender;house;wand;patronus;blood_status;birthdate
+Id;Name;Gender;House;Wand;Patronus;Blood status;Birthdate
 1;Harry James Potter;Male;Gryffindor;"11""  Holly  phoenix feather";Stag;Half-blood;July 1980
 2;Ronald Bilius Weasley;Male;Gryffindor;"12"" Ash unicorn tail hair ";Jack Russell terrier;Pure-blood;March 1980
 3;Hermione Jean Granger;Female;Gryffindor;"10¾""  vine wood dragon heartstring";Otter;Muggle-born;September 1979
@@ -103,7 +103,7 @@ Id;name;gender;house;wand;patronus;blood_status;birthdate
 102;Amos Diggory;Male;;Unknown;Non-corporeal;Pure-blood or half-blood;
 103;Dedalus Diggle;Male;;Unknown;Non-corporeal;Pure-blood or half-blood;
 104;Elphias Doge;Male;;Unknown;Non-corporeal;Pure-blood;September 1881
-105;Fleur Isabelle Delacour;Female;Beauxbatons Academy of Magic;"9½"", Rosewood, veela hair";Non-corporeal;Quarter-Veela;October 1977
+105;Fleur Isabelle Delacour;Female;;"9½"", Rosewood, veela hair";Non-corporeal;Quarter-Veela;October 1977
 106;Aberforth Dumbledore;Male;;Unknown;Goat;Half-blood;September 1884
 107;Mundungus Fletcher;Male;;Unknown;Non-corporeal;Half-blood[;
 108;Sturgis Podmore;Male;;Unknown;Unknown;Pure-blood or half-blood;September 1957
@@ -115,9 +115,9 @@ Id;name;gender;house;wand;patronus;blood_status;birthdate
 114;Edgar Bones;Male;Hufflepuff;Unknown;Unknown;Pure-blood or half-blood;
 115;Dorcas Meadowes;Female;;Unknown;Unknown;;
 116;Benjy Fenwick;Male;;Unknown;Unknown;;
-117;Madame Olympe Maxime;Female;Beauxbatons Academy of Magic;Unknown;Unknown;Part-Human (Half-giant);
-118;Gabrielle Delacour;Female;Beauxbatons Academy of Magic;Unknown;Unknown;Quarter-Veela;July 1986
-119;Viktor Krum;Male;Durmstrang Institute;"10¼"", Hornbeam, dragon heartstring";Unknown;Pure-blood or half-blood;April 1976
+117;Madame Olympe Maxime;Female;;Unknown;Unknown;Part-Human (Half-giant);
+118;Gabrielle Delacour;Female;;Unknown;Unknown;Quarter-Veela;July 1986
+119;Viktor Krum;Male;;"10¼"", Hornbeam, dragon heartstring";Unknown;Pure-blood or half-blood;April 1976
 120;Petunia Dursley;Female;;;;Muggle;
 121;Vernon Dursley;Male;;;;Muggle;
 122;Dudley Dursley;Male;;;;Muggle;June 1980
