@@ -39,7 +39,7 @@ Our database includes four tables:
 - `character_books`: A junction table connecting characters to the books they appear in
 
 ### Entity Relationship Diagram (ERD):
-![HP ERD](https://github.com/user-attachments/assets/7826bd9e-dce8-49b8-897a-0e445f5601bb)
+![HP ERD](https://github.com/jandrews2330/Project-Three/blob/main/HP_Database_ERD.png?raw=true)
 
 ---
 
