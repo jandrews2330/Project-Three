@@ -27,6 +27,7 @@ We gathered data from publicly available Harry Potter datasets on [Kaggle]([http
 - PostgreSQL
 - pgAdmin
 - Pandas (for data loading/display)
+- SQLAlchemy (for ORM-based ETL)
 
 ---
 
